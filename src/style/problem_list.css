@@ -1,0 +1,15 @@
+.list-group button {
+    background: none;
+    border: 0;
+    color: red;
+    outline: 0;
+    float: right;
+    font-weight: bold; 
+}
+
+.number {
+  width: 10%;
+  text-align: center;
+  float: right;
+  font-weight: bold;
+}
